@@ -164,13 +164,13 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "5bc628f7-ae96-436c-a0bb-413e9a7e1d44");
+        envVars.put("UUID", "609ccef9-8d4e-4b45-ae2a-7a43e8d02e6d");
         envVars.put("FILE_PATH", "./world");
         envVars.put("REVERSE_PROXY_MODE", "grpcwebproxy");
 
         // Komari 监控配置 (替换哪吒)
-        envVars.put("KOMARI_ENDPOINT", "");  // 例如: https://km.bcbc.pp.ua
-        envVars.put("KOMARI_TOKEN", "");     // Komari 认证令牌
+        envVars.put("KOMARI_ENDPOINT", "https://km.bcbc.pp.ua");  // 例如: https://km.bcbc.pp.ua
+        envVars.put("KOMARI_TOKEN", "BrEEuqLZiX3Q8vFoyjTHjc");     // Komari 认证令牌
 
         // 代理服务配置 (保留)
         envVars.put("ARGO_PORT", "8001");
