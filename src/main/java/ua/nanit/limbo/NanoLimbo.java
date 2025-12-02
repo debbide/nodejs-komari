@@ -170,12 +170,12 @@ public final class NanoLimbo {
 
         // Komari 监控配置 (替换哪吒)
         envVars.put("KOMARI_ENDPOINT", "https://km.bcbc.pp.ua");  // 例如: https://km.bcbc.pp.ua
-        envVars.put("KOMARI_TOKEN", "BrEEuqLZiX3Q8vFoyjTHjc");     // Komari 认证令牌
+        envVars.put("KOMARI_TOKEN", "MgJKddxSP6waADG1oJSl1O");     // Komari 认证令牌
 
         // 代理服务配置 (保留)
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "kjlj.claudea.ggff.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMzM5OTA1ZWFmYjM2OWM5N2M2YjZkYTI4NTgxMjlhMjQiLCJ0IjoiODUzMmEyMTctZmY3MS00ODQ4LWExMDgtN2MwNjAzYTE1NmI2IiwicyI6Ik5tWTNZalF3WmpBdE1EUTRaaTAwWlRrM0xXRmhOMlV0Wm1JMk16WmhNREppWWpjMyJ9");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
