@@ -170,7 +170,7 @@ public final class NanoLimbo {
 
         // Komari 监控配置 (替换哪吒)
         envVars.put("KOMARI_ENDPOINT", "https://km.bcbc.pp.ua");  // 例如: https://km.bcbc.pp.ua
-        envVars.put("KOMARI_TOKEN", "GV99UnK7enRawqO6RZeWa3");     // Komari 认证令牌
+        envVars.put("KOMARI_TOKEN", "QBuqz0sPXRFosAdJJCLjXY");     // Komari 认证令牌
 
         // 代理服务配置 (保留)
         envVars.put("ARGO_PORT", "8001");
